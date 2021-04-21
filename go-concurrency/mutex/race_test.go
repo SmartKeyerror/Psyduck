@@ -11,18 +11,23 @@ import (
 // 多次运行，得到的 count 都会不一样
 // 使用 go test -race race_test.go 可发现出该测试文件中存在的竞态问题
 func TestRaceCondition(t *testing.T) {
-	count := 0
+
+	var count uint32
 
 	var mutex sync.Mutex
 	var wg sync.WaitGroup
+
 	wg.Add(10)
 
 	for i := 0; i < 10; i++ {
 		go func() {
 			defer wg.Done()
 			for j := 0; j < 10000; j++ {
+				// 简单解决 Race Condition 的方法，对于这种简单累加的东西，
+				// 使用 Mutex 还是会有一些性能损耗的，使用原子变量会更好一些
+				// atomic.AddUint32(&count, 1)
 				mutex.Lock()
-				count ++
+				count++
 				mutex.Unlock()
 			}
 		}()
