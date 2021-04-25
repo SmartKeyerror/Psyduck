@@ -75,7 +75,33 @@ func AlternatelyPrint2() {
 	select {}
 }
 
+type Token struct{}
+
+// 第三种方式，其实就是把第一种方式抽象了出来
+func AlternatelyPrint3(total int) {
+
+	// 初始化一堆 channel，用于多个 Goroutine 间通信
+	channels := make([]chan Token, total)
+	for i := 0; i < total; i++ {
+		channels[i] = make(chan Token)
+	}
+
+	for i := 0; i < total; i++ {
+		go func(index int, current chan Token, nextChan chan Token) {
+			for {
+				<-current
+				fmt.Printf("Goroutine %d \n", index)
+				time.Sleep(time.Second)
+				nextChan <- Token{}
+			}
+		}(i+1, channels[i], channels[(i+1)%total])
+	}
+	channels[0] <- Token{}
+	select {}
+}
+
 func TestAlternatelyPrint(t *testing.T) {
-	AlternatelyPrint()
-	AlternatelyPrint2()
+	//AlternatelyPrint()
+	//AlternatelyPrint2()
+	AlternatelyPrint3(4)
 }
