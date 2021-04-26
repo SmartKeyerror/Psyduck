@@ -4,9 +4,9 @@
 
 - [C++](#telescope-C++)
 - [Database](#bento-Database)
-- [Linux Network Programing](#fire-Linux Network Programing)
+- [Linux Network Programing](#fire-Linux-Network-Programing)
 
-## :telescope:C++
+## :telescope: C++
 
 #### common
 
@@ -62,9 +62,9 @@ TODO
 
 ------
 
-## :bento:Database
+## :bento: Database
 
 
 ------
 
-## :fire:Linux Network Programing
+## :fire: Linux-Network-Programing
