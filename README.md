@@ -57,6 +57,7 @@
 ## :paw_prints: Golang
 
 - [channel 的设计与使用](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/golang/channel.pdf)
+- [map 的设计与扩容时机](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/golang/map.pdf)
 
 ------
 
