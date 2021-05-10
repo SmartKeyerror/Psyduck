@@ -12,7 +12,9 @@
 
 > 有时候，所有的情况都会对你不利。所有的坏事一起发生，你就可能会想，就是这样了，这就是我的终点了。面对这种情况，你要么接受，要么想办法解决，这就是一切的真谛。解决问题，你想各种办法，解决一个问题，然后接着解决下一个问题，循环往复，等你解决了足够多的问题，你就可以回家了。
 
-知识，源于分解，而 XMind 则提供了更直观的分解。
+即学会分解。下面是一些图片，可以帮助你更好地了解这个项目做了什么:
+
+![](Psyduck.png)
 
 ------
 
@@ -49,12 +51,15 @@
 - [socket 编程问题一览(01)](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/socket%20%E7%BC%96%E7%A8%8B%E9%97%AE%E9%A2%98%E4%B8%80%E8%A7%88%2801%29.pdf)
 - [socket 编程问题一览(02)](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/socket%20%E7%BC%96%E7%A8%8B%E9%97%AE%E9%A2%98%E4%B8%80%E8%A7%88%2802%29.pdf)
 - [epoll 原理剖析](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/epoll%20%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90.pdf)
+- epoll_event
+- [HTTPS 握手过程](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/HTTPS.pdf)
 
 ------
 
 ## :paw_prints: Golang
 
 - [channel 的设计与使用](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/golang/channel.pdf)
+- [map 的设计与扩容时机](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/golang/map.pdf)
 
 ------
 
