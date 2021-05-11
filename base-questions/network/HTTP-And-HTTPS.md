@@ -23,6 +23,4 @@
 3. 客户端收到 Server Hello 数据包以后，首先验证证书的有效性。例如证书是否过期、域名是否正确、证书拥有者是否正确等等，并且还会使用预装的 CA 公钥去解密证书中包含的签名(Signature)，并与证书中的哈希摘要进行比对。验证成功后则再次生成一个随机字符串 `pre-master`， 即 Pre Master Secret，预主密钥，通过公钥进行加密，发送给服务端。服务端使用自己的私钥对其进行解密。
 4. 而后，客户端与服务端使用前面的 `clientRandNum`，`serverRandNum` 以及 `pre-master` 这三个随机数生成对称加密密钥，后续所有的数据交互均使用该密钥进行对称加密通信。
 
-TODO: 下面儿图中的 Client Server 有误，应修正为 Server Hello
-
-![Alt text](../images/1619769370821.png)
+![Alt text](../images/1620610060394.png)
