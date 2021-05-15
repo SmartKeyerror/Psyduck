@@ -62,6 +62,7 @@
 - [channel 的设计与使用](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/golang/channel.pdf)
 - [map 的设计与扩容时机](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/golang/map.pdf)
 - [G-M-P 模型](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/golang/G-M-P%E6%A8%A1%E5%9E%8B.pdf)
+- [三色标记-清除式 GC](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/golang/GC.pdf)
 
 ------
 
