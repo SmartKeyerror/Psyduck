@@ -6,13 +6,13 @@
 在 2020 年时，曾花了约 2 个月的时间整理了第一份 XMind 知识库: [ZeroMind](https://github.com/SmartKeyerror/ZeroMind)。
 之所以额外创建一个 Repo 干同样的事情，是因为一方面自己的审美发生了变化，另一方面则是对那些最重要但基础的问题有了更深刻地理解。
 
-温故而知新，孔子诚不欺我。在整理面试题目的过程中，对诸如 CFS-vruntime、POSIX 条件变量、TCP 和 epoll 等内容有了自己的理解：不再是死记硬背了。
+温故而知新，孔子诚不欺我。在整理基础知识点的过程中，对诸如 CFS-vruntime、POSIX 条件变量、TCP 和 epoll 等内容有了自己的理解，有一种恍然大悟的感觉。
 
 之所以使用 XMind 来记录这些内容，是因为我非常喜欢《火星救援》里面的一句台词:
 
 > 有时候，所有的情况都会对你不利。所有的坏事一起发生，你就可能会想，就是这样了，这就是我的终点了。面对这种情况，你要么接受，要么想办法解决，这就是一切的真谛。解决问题，你想各种办法，解决一个问题，然后接着解决下一个问题，循环往复，等你解决了足够多的问题，你就可以回家了。
 
-即学会分解。下面是一些图片，可以帮助你更好地了解这个项目做了什么:
+也就是说，面对一个大问题时需要学会将其分解成一个一个的小问题，然后逐一地处理，即"分而治之"。下面是一些图片，可以帮助你更好地了解这个项目做了什么:
 
 ![](Psyduck.png)
 
@@ -22,7 +22,9 @@
 ## :high_brightness: 目录
 
 - [Database](#bento-Database)
+- [Middleware](#alembic-middleware)
 - [Linux Network Programing](#fire-Linux-Network-Programing)
+- [Operating System](#zap-Operating-System)
 - [Golang](#paw_prints-Golang)
 - [C++](#telescope-C++)
 
@@ -35,8 +37,18 @@
 - [深入浅出 InnoDB Index](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20InnoDB%20Index.pdf)
 - [InnoDB WAL](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/InnoDB-WAL.pdf)
 - [InnoDB undo log 与 MVCC](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/InnoDB-undo-log%E4%B8%8EMVCC.pdf)
+- [全局锁、表级锁以及行锁（上）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E5%85%A8%E5%B1%80%E9%94%81%E3%80%81%E8%A1%A8%E7%BA%A7%E9%94%81%E4%BB%A5%E5%8F%8A%E8%A1%8C%E9%94%81%EF%BC%88%E4%B8%8A%EF%BC%89.pdf)
+- [全局锁、表级锁以及行锁（中）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E5%85%A8%E5%B1%80%E9%94%81%E3%80%81%E8%A1%A8%E7%BA%A7%E9%94%81%E4%BB%A5%E5%8F%8A%E8%A1%8C%E9%94%81%EF%BC%88%E4%B8%AD%EF%BC%89.pdf)
+- [全局锁、表级锁以及行锁（下）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E5%85%A8%E5%B1%80%E9%94%81%E3%80%81%E8%A1%A8%E7%BA%A7%E9%94%81%E4%BB%A5%E5%8F%8A%E8%A1%8C%E9%94%81%EF%BC%88%E4%B8%8B%EF%BC%89.pdf)
+- [主键的选择](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E4%B8%BB%E9%94%AE%E7%9A%84%E9%80%89%E6%8B%A9.pdf)
 - [Redis 数据结构](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/Redis%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.pdf)
 - [etcd 概述](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/etcd%E6%A6%82%E8%BF%B0.pdf)
+
+------
+
+## :alembic: Middleware
+
+- [可靠消息中间件——RabbitMQ](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/middleware/RabbitMQ.pdf)
 
 ------
 
@@ -54,6 +66,12 @@
 - [epoll 原理剖析](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/epoll%20%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90.pdf)
 - epoll_event
 - [HTTPS 握手过程](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/HTTPS.pdf)
+
+------
+
+## :zap: Operating System
+
+- [Linux 虚拟内存](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/operating-system/Linux-Virtual-Memory.pdf)
 
 ------
 
