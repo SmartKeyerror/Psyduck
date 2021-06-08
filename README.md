@@ -66,6 +66,7 @@
 - [epoll 原理剖析](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/epoll%20%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90.pdf)
 - epoll_event
 - [HTTPS 握手过程](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/HTTPS.pdf)
+- [Nginx 基本进程模型与核心数据结构](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/nginx.pdf)
 
 ------
 
