@@ -37,6 +37,7 @@
 - [InnoDB 数据页结构](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/InnoDB-Page.pdf)
 - [深入浅出 InnoDB Index](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20InnoDB%20Index.pdf)
 - [InnoDB WAL](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/InnoDB-WAL.pdf)
+- [InnoDB Group Commit](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/InnoDB%20Group%20Commit.pdf)
 - [InnoDB undo log 与 MVCC](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/InnoDB-undo-log%E4%B8%8EMVCC.pdf)
 - [全局锁、表级锁以及行锁（上）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E5%85%A8%E5%B1%80%E9%94%81%E3%80%81%E8%A1%A8%E7%BA%A7%E9%94%81%E4%BB%A5%E5%8F%8A%E8%A1%8C%E9%94%81%EF%BC%88%E4%B8%8A%EF%BC%89.pdf)
 - [全局锁、表级锁以及行锁（中）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E5%85%A8%E5%B1%80%E9%94%81%E3%80%81%E8%A1%A8%E7%BA%A7%E9%94%81%E4%BB%A5%E5%8F%8A%E8%A1%8C%E9%94%81%EF%BC%88%E4%B8%AD%EF%BC%89.pdf)
