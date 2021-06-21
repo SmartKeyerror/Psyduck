@@ -26,6 +26,7 @@
 - [Linux Network Programing](#fire-Linux-Network-Programing)
 - [Operating System](#zap-Operating-System)
 - [Golang](#paw_prints-Golang)
+- [Kubernetes](#art-Kubernetes)
 - [C++](#telescope-C++)
 
 ------
@@ -36,12 +37,14 @@
 - [InnoDB 数据页结构](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/InnoDB-Page.pdf)
 - [深入浅出 InnoDB Index](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20InnoDB%20Index.pdf)
 - [InnoDB WAL](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/InnoDB-WAL.pdf)
+- [InnoDB Group Commit](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/InnoDB%20Group%20Commit.pdf)
 - [InnoDB undo log 与 MVCC](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/InnoDB-undo-log%E4%B8%8EMVCC.pdf)
 - [全局锁、表级锁以及行锁（上）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E5%85%A8%E5%B1%80%E9%94%81%E3%80%81%E8%A1%A8%E7%BA%A7%E9%94%81%E4%BB%A5%E5%8F%8A%E8%A1%8C%E9%94%81%EF%BC%88%E4%B8%8A%EF%BC%89.pdf)
 - [全局锁、表级锁以及行锁（中）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E5%85%A8%E5%B1%80%E9%94%81%E3%80%81%E8%A1%A8%E7%BA%A7%E9%94%81%E4%BB%A5%E5%8F%8A%E8%A1%8C%E9%94%81%EF%BC%88%E4%B8%AD%EF%BC%89.pdf)
 - [全局锁、表级锁以及行锁（下）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E5%85%A8%E5%B1%80%E9%94%81%E3%80%81%E8%A1%A8%E7%BA%A7%E9%94%81%E4%BB%A5%E5%8F%8A%E8%A1%8C%E9%94%81%EF%BC%88%E4%B8%8B%EF%BC%89.pdf)
 - [主键的选择](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E4%B8%BB%E9%94%AE%E7%9A%84%E9%80%89%E6%8B%A9.pdf)
 - [Redis 数据结构](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/Redis%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.pdf)
+- [Redis 主从复制原理](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/Redis%20%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.pdf)
 - [etcd 概述](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/etcd%E6%A6%82%E8%BF%B0.pdf)
 
 ------
@@ -64,8 +67,9 @@
 - [socket 编程问题一览(01)](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/socket%20%E7%BC%96%E7%A8%8B%E9%97%AE%E9%A2%98%E4%B8%80%E8%A7%88%2801%29.pdf)
 - [socket 编程问题一览(02)](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/socket%20%E7%BC%96%E7%A8%8B%E9%97%AE%E9%A2%98%E4%B8%80%E8%A7%88%2802%29.pdf)
 - [epoll 原理剖析](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/epoll%20%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90.pdf)
-- epoll_event
+- [epoll_event](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/epoll_event.pdf)
 - [HTTPS 握手过程](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/HTTPS.pdf)
+- [Nginx 基本进程模型与核心数据结构](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/linux-network/nginx.pdf)
 
 ------
 
@@ -81,6 +85,12 @@
 - [map 的设计与扩容时机](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/golang/map.pdf)
 - [G-M-P 模型](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/golang/G-M-P%E6%A8%A1%E5%9E%8B.pdf)
 - [三色标记-清除式 GC](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/golang/GC.pdf)
+
+------
+
+## :art: Kubernetes
+
+- [为什么需要 Pod?](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/kubernetes/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%20Pod.pdf)
 
 ------
 
