@@ -97,6 +97,7 @@
 ## :art: Kubernetes
 
 - [为什么需要 Pod?](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/kubernetes/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%20Pod.pdf)
+- [声明式 API 是如何实现的?](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/kubernetes/%E5%A3%B0%E6%98%8E%E5%BC%8F%20API%20%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%9A%84.pdf)
 
 ------
 
