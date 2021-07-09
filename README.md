@@ -22,6 +22,7 @@
 ## :high_brightness: 目录
 
 - [Database](#bento-Database)
+- [Distributed System](#rocket-Distributed-System)
 - [Middleware](#alembic-middleware)
 - [Linux Network Programing](#fire-Linux-Network-Programing)
 - [Operating System](#zap-Operating-System)
@@ -55,6 +56,13 @@
 - [etcd 概述](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/etcd%E6%A6%82%E8%BF%B0.pdf)
 
 ------
+
+## :rocket: Distributed System
+
+### 分布式协议与算法
+- [拜占庭将军问题（共识）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98.pdf)
+
+---
 
 ## :alembic: Middleware
 
