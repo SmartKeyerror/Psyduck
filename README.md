@@ -66,6 +66,7 @@
 - [拜占庭将军问题（共识）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98.pdf)
 - [Basic Paxos](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/Basic%20Paxos.pdf)
 - [Raft——领导选举与日志复制](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/Raft.pdf)
+- [Gossip——流言蜚语实现最终一致性](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/Gossip.pdf)
 
 ---
 
