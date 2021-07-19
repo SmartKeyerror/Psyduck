@@ -68,6 +68,7 @@
 - [Basic Paxos](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/Basic%20Paxos.pdf)
 - [Raft——领导选举与日志复制](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/Raft.pdf)
 - [Gossip——流言蜚语实现最终一致性](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/Gossip.pdf)
+- [Quorum NWR——定制一致性](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/Quorum%20NWR.pdf)
 
 ---
 
