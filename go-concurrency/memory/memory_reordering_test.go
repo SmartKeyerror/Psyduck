@@ -25,7 +25,7 @@ func MayBeReordering() {
 }
 
 func TestMemoryReordering(t *testing.T) {
-	MayBeReordering()
+	go MayBeReordering()
 
 	for Done == false {
 	}
