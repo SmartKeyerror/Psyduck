@@ -47,6 +47,7 @@
 - [主键的选择](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E4%B8%BB%E9%94%AE%E7%9A%84%E9%80%89%E6%8B%A9.pdf)
 - [MySQL Cost-Based Optimizer](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/MySQL%20Cost%20Based%20Optimizer.pdf)
 - [MySQL Join 工作原理浅析](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/MySQL%20JOIN%20%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.pdf)
+- [MySQL Replication——异步与并行复制](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/MySQL%20%E5%BC%82%E6%AD%A5%E5%A4%8D%E5%88%B6.pdf)
 
 ### Others
 
