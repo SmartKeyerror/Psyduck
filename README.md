@@ -63,7 +63,7 @@
 
 ### 分布式协议与算法
 
-![](Distributed-System/roadmap.png)
+![](distributed-system/roadmap.png)
 
 - [CAP 理论](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/CAP.pdf)
 - [拜占庭将军问题（共识）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98.pdf)
