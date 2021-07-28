@@ -55,7 +55,7 @@
 - [Redis 数据结构](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/redis/Redis%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.pdf)
 - [Redis 主从复制原理](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/redis/Redis%20%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.pdf)
 - [缓存更新的策略](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/redis/%E7%BC%93%E5%AD%98%E6%9B%B4%E6%96%B0%E7%9A%84%E7%AD%96%E7%95%A5.pdf)
-
+- [Redis Cluster 概述](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/redis/Redis%20Cluster%20%E6%A6%82%E8%BF%B0.pdf)
 
 - [etcd 概述](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/etcd%E6%A6%82%E8%BF%B0.pdf)
 
