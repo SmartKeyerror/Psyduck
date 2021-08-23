@@ -48,7 +48,7 @@
 - [MySQL Cost-Based Optimizer](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/MySQL%20Cost%20Based%20Optimizer.pdf)
 - [MySQL Join 工作原理浅析](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/MySQL%20JOIN%20%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.pdf)
 - [MySQL Replication——异步与并行复制](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/MySQL%20%E5%BC%82%E6%AD%A5%E5%A4%8D%E5%88%B6.pdf)
-- [MySQL GTID 与办同步复制](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/MySQL%20GTID%20%E4%B8%8E%E5%8D%8A%E5%90%8C%E6%AD%A5%E5%A4%8D%E5%88%B6.pdf)
+- [MySQL GTID 与半同步复制](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/MySQL%20GTID%20%E4%B8%8E%E5%8D%8A%E5%90%8C%E6%AD%A5%E5%A4%8D%E5%88%B6.pdf)
 
 ### Others
 
@@ -67,6 +67,7 @@
 
 ![](distributed-system/roadmap.png)
 
+- [2PC](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/2PC.pdf)
 - [CAP 理论](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/CAP.pdf)
 - [拜占庭将军问题（共识）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98.pdf)
 - [Basic Paxos](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/distributed-system/Basic%20Paxos.pdf)
