@@ -51,6 +51,10 @@
 - [MySQL Replication——异步与并行复制](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/MySQL%20%E5%BC%82%E6%AD%A5%E5%A4%8D%E5%88%B6.pdf)
 - [MySQL GTID 与半同步复制](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/MySQL%20GTID%20%E4%B8%8E%E5%8D%8A%E5%90%8C%E6%AD%A5%E5%A4%8D%E5%88%B6.pdf)
 
+### PostgreSQL
+
+- [索引聚集表与堆表](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E6%95%B0%E6%8D%AE%E7%BB%84%E7%BB%87%E6%A0%BC%E5%BC%8F.pdf)
+
 ### Greenplum
 
 - [Greenplum 架构概览](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/greenplum/Greenplum%20%E6%9E%B6%E6%9E%84%E6%A6%82%E8%A7%88.pdf)
