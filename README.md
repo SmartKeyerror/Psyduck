@@ -58,6 +58,7 @@
 ### Greenplum
 
 - [Greenplum 架构概览](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/greenplum/Greenplum%20%E6%9E%B6%E6%9E%84%E6%A6%82%E8%A7%88.pdf)
+- [为什么需要 Motion？](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/greenplum/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%20Motion.pdf)
 
 ### Others
 
