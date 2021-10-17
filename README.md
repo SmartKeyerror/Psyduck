@@ -54,6 +54,7 @@
 ### PostgreSQL
 
 - [索引聚集表与堆表](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E6%95%B0%E6%8D%AE%E7%BB%84%E7%BB%87%E6%A0%BC%E5%BC%8F.pdf)
+- [PostgreSQL 查询树结构（Query）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/Query%20Tree.pdf)
 
 ### Greenplum
 
