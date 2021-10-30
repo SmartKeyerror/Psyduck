@@ -55,6 +55,7 @@
 
 - [索引聚集表与堆表](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E6%95%B0%E6%8D%AE%E7%BB%84%E7%BB%87%E6%A0%BC%E5%BC%8F.pdf)
 - [PostgreSQL 查询树结构（Query）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/Query%20Tree.pdf)
+- [RBO——提升子连接(基本概念)](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E6%8F%90%E5%8D%87%E5%AD%90%E8%BF%9E%E6%8E%A5%EF%BC%88%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%EF%BC%89.pdf)
 
 ### Greenplum
 
