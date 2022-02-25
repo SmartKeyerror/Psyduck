@@ -121,6 +121,7 @@
 
 - [Linux 进程、线程与调度](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/c%2B%2B/concurrent/1.%20Linux%20%E8%BF%9B%E7%A8%8B%E3%80%81%E7%BA%BF%E7%A8%8B%E4%B8%8E%E8%B0%83%E5%BA%A6.pdf)
 - [Linux 虚拟内存](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/operating-system/Linux-Virtual-Memory.pdf)
+- [内存申请与分配](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/operating-system/%E5%86%85%E5%AD%98%E7%94%B3%E8%AF%B7%E4%B8%8E%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D.pdf)
 
 ------
 
