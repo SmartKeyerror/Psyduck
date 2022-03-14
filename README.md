@@ -60,6 +60,7 @@
 - [PostgreSQL 查询树结构（Query）](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/Query%20Tree.pdf)
 - [RBO——提升子连接(基本概念)](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E6%8F%90%E5%8D%87%E5%AD%90%E8%BF%9E%E6%8E%A5%EF%BC%88%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%EF%BC%89.pdf)
 - [RBO——提升子连接(具体过程)](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/%E6%8F%90%E5%8D%87%E5%AD%90%E8%BF%9E%E6%8E%A5%EF%BC%88%E5%85%B7%E4%BD%93%E8%BF%87%E7%A8%8B%EF%BC%89.pdf)
+- [PostgreSQL 中的 SysCache](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Phyduck/database/SysCache.pdf)
 
 ### Greenplum
 
